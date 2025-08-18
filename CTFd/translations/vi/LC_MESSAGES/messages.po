@@ -287,8 +287,8 @@ msgid "Search for matching users"
 msgstr "Tìm kiếm người dùng"
 
 #: CTFd/themes/core-beta/templates/base.html:49
-msgid "Powered by CTFd"
-msgstr "Cung cấp bởi CTFd"
+msgid "Powered by SAKEC Cyber Security Department"
+msgstr "Cung cấp bởi SAKEC Cyber Security Department"
 
 #: CTFd/themes/core-beta/templates/challenge.html:11
 #: CTFd/themes/core-beta/templates/teams/private.html:375

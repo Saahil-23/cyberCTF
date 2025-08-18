@@ -287,8 +287,8 @@ msgid "Search for matching users"
 msgstr "Αναζήτηση για αντίστοιχους χρήστες"
 
 #: CTFd/themes/core-beta/templates/base.html:49
-msgid "Powered by CTFd"
-msgstr "Με την υποστήριξη του CTFd"
+msgid "Powered by SAKEC Cyber Security Department"
+msgstr "Με την υποστήριξη του SAKEC Cyber Security Department"
 
 #: CTFd/themes/core-beta/templates/challenge.html:11
 #: CTFd/themes/core-beta/templates/teams/private.html:375
